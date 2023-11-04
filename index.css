@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #F1DFDD;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.section {
+    padding: 20px;
+}
+.section h2 {
+    font-size: 1.5em;
+}
+.project {
+    margin: 20px 0;
+}
+.project h3 {
+    font-size: 1.2em;
+}
+.name-text{
+    font-size: 80px;
+}
+.color-panel {
+    background-color: #F1DFDD;
+}
